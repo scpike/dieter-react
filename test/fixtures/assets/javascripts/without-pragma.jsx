@@ -1,0 +1,1 @@
+React.createComponent(<p>Hello!</p>);
