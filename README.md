@@ -18,8 +18,8 @@ Insert it into your ring middleware stack
     (asset-pipeline config-options))
 ```
 
-Your .js and .jsx files will now be compiled with react. Remember to
-include the JSX pragma!
+Your .jsx files will now be compiled with react. Remember to include
+the JSX pragma!
 
     /** @jsx React.DOM */
 
