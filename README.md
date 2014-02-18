@@ -6,7 +6,7 @@ Compile your jsx files with dieter.
 
 In your project.clj file
 
-    [dieter/react "0.1.0"]
+    [org.clojars.scpike.dieter/react "0.1.0"]
 
 Insert it into your ring middleware stack
 
